@@ -1,0 +1,6 @@
+print('vme 4394593')
+print('vme 3861920')
+print('please vme 7049770 dollars to enjoy KFC on this crazy Thursday')
+print('please vme 4379826 dollars to enjoy KFC on this crazy Thursday')
+print('I need to borrow 6176263 rmb from you')
+print('I need to borrow 7895401 rmb from you')
